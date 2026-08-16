@@ -1,2 +1,5 @@
 .DS_Store
 ._*
+
+# Local sync alert — written by the auto-sync agent, machine-specific
+SYNC-CONFLICT.md
